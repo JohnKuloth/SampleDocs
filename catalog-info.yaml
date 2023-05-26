@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
+  name: "DOCS"
   annotations:
-    name: "DOCS"
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
