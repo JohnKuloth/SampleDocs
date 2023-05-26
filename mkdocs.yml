@@ -2,6 +2,7 @@ site_name: 'example-docs'
 
 nav:
   - Home: index.md
+  - Ocean: Ocean AIS Manager (K8s).md
 
 plugins:
   - techdocs-core
